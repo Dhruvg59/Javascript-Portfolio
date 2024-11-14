@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+Content from your local branch
+=======
+Content from the remote branch
+>>>>>>> origin/main
+
+
+
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526682619)
 
 # JavaScript Portfolio Site with GitHub Codespaces and Copilot
@@ -428,3 +436,6 @@ Explore how you can use Copilot to help you:
 
 ## 🔎 Found an issue or have an idea for improvement?
 Help us make this template repository better by [letting us know and opening an issue!](/../../issues/new).
+=======
+# Javascript-Portfolio
+>>>>>>> 1a8551150b3c0710aa75ab40a6001eef49671dc1
