@@ -40,18 +40,18 @@ const projectList = [
     title: "Web Development for Beginners",
     description:
       "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    url: " ",
   },
   {
-    title: "My Resume Site",
+    title: "My Portfolio site ",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "A personal portfolio showcasing my frontend development skills, projects, and achievements. Built with React and deployed on GitHub Pages.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Built an AI Assitant ",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+      "Developed an interactive AI Assistant using HTML, CSS, and JavaScript. The assistant responds to user input, offering helpful responses and simulating basic conversational abilities, showcasing core front-end development skills along with JavaScript's event handling and DOM manipulation.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
